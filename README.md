@@ -10,6 +10,8 @@
   - Allow everyone to respond
   - Restrict to followers
   - Customize replies to groups or tailored feeds.
+
+---------------------------------------------------------------------------
  
 ### 🎨 Modern, Accessible Design
 - **Dark Mode UI** for a sleek, modern look with vibrant purple and blue tones.
